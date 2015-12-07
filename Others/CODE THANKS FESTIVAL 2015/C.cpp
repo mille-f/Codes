@@ -33,7 +33,7 @@ int main(void) {
   REP(i,n) { cin >> h[i]; }
   cin >> x;
 
-  h.PB(x);
+  /*h.PB(x);
   SORT(h);
 
   for (int i = 0; i <= n; i++) {
@@ -41,6 +41,8 @@ int main(void) {
       cout << i+1 << endl;
       return 0;
     }
-  }
+  }*/
+  cout << (int)(lower_bound(h.begin(), h.end(), x) - h.begin()) + 1 << endl;
+  /* lower_bound: 指定した値以上の要素が最初に現れる位置を返す */
 
 }
