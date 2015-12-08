@@ -27,19 +27,15 @@ const int dx[4] = {1, 0, -1, 0};
 const int dy[4] = {0, 1, 0, -1};
 
 int main(void) {
-  int l[100];
-  int m[100] = {0};
+  int l1, l2, l3;
+  int ans;
+  cin >> l1 >> l2 >> l3;
 
-  REP(i,3) {
-    cin >> l[i];
-    m[l[i]]++;
-  }
+  if (l1 == l2 && l1 == l3) ans = l1;
+  else if (l1 == l2) ans = l3;
+  else if (l1 == l3) ans = l2;
+  else if (l2 == l3) ans = l1;
 
-  REP(i,11) {
-    if ( m[i] == 1 || m[i] == 3 ) {
-      cout << i << endl;
-    }
-  }
-
+  cout << ans << endl;
   return 0;
 }
