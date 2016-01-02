@@ -1,3 +1,3 @@
 language: cpp
 script:
-  - g++ -Wall -Wextra -pedantic ABC001/A.cpp && ./a.out
+  - g++ -Wall -Wextra -pedantic ABC/ABC001/A.cpp && ./a.out
