@@ -1,4 +1,3 @@
 language: cpp
 script:
-  - g++ --version
-  - g++ -Wall -Wextra -pedantic src/test.cpp && ./a.out
+  - g++ -Wall -Wextra -pedantic ABC001/A.cpp && ./a.out
