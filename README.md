@@ -7,6 +7,8 @@
 
 Input directory name then make directory and change directory automatically.
 -->
+[![Build Status](https://travis-ci.org/mille-f/atcoder_codes.svg)](https://travis-ci.org/mille-f/atcoder_codes)
+
 # Solved Problems
 ## AtCoder Beginner Contest
 
