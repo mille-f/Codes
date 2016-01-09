@@ -9,6 +9,9 @@ case $name in
     ABC* )
         mkdir "./ABC/$name"
         cd "./ABC/$name";;
+    ATC* )
+        mkdir "./ATC/$name"
+        cd "./ATC/$name";;
     *)
         mkdir "./Others/$name"
         cd "./Others/$name";;
