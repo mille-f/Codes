@@ -21,7 +21,8 @@ Input directory name then make directory and change directory automatically.
 |ABC004 |✓|✓|-|-|
 |ABC005 |✓|✓|✓|-|
 | | | | | |
-|ABC032 |✓|-|-|-|
+|ABC031 |&#x2611;|&#x2610;|&#x2610;|&#x2610;|
+|ABC032 |&#x2611;|&#x2610;|&#x2610;|&#x2610;|
 
 ## AtCoder Regular Contest
 |Contest| A | B | C | D |
