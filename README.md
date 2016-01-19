@@ -21,6 +21,7 @@ Input directory name then make directory and change directory automatically.
 |ABC004 |&#x2611;|&#x2611;|-|-|
 |ABC005 |&#x2611;|&#x2611;|&#x2611;|-|
 | | | | | |
+|ABC029 |||||
 |ABC030 |||||
 |ABC031 |&#x2611;|&#x2611;|&#x2610;|&#x2610;|
 |ABC032 |&#x2611;|&#x2610;|&#x2610;|&#x2610;|
