@@ -35,6 +35,7 @@ Input directory name then make directory and change directory automatically.
 
 |Contest| A | B | C | D |
 |:-----:|:-:|:-:|:-:|:-:|
-|hoge |-|-|-|-|
+|DDPC2016|&#x2611;|-|-|-|
+
 
 
