@@ -12,7 +12,6 @@ Input directory name then make directory and change directory automatically.
 # Solved Problems
 ## AtCoder Beginner Contest
 
-
 |Contest| A | B | C | D |
 |:-----:|:-:|:-:|:-:|:-:|
 |ABC001 |&#x2611;|&#x2611;|-|-|
@@ -35,7 +34,7 @@ Input directory name then make directory and change directory automatically.
 
 |Contest| A | B | C | D |
 |:-----:|:-:|:-:|:-:|:-:|
-|DDPC2016|&#x2611;|-|-|-|
+|DDPC2016|&#x2611;|&#x2610;|&#x2610;|&#x2610|
 
 
 
