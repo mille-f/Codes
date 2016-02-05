@@ -29,6 +29,7 @@ Input directory name then make directory and change directory automatically.
 |Contest| A | B | C | D |
 |:-----:|:-:|:-:|:-:|:-:|
 |ARC001 |-|-|-|-|
+|ARC002 |-|-|-|-|
 
 ## Others
 
