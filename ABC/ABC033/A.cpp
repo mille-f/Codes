@@ -32,9 +32,8 @@ int main(void) {
   cin >> n;
 
   for ( int i = 0; i < 4; i++ ) {
-    int k = n /10;
-    a[i] = n - k * 10;
-    n = k;
+    a[i] = n % 10;
+    n /= 10;
   }
   if ( a[0] == a[1] && a[0] == a[2] && a[0] == a[3] ) { cout << "SAME" << endl; }
   else { cout << "DIFFERENT" << endl; }
