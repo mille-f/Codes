@@ -16,7 +16,7 @@ Input directory name then make directory and change directory automatically.
 |:-----:|:-:|:-:|:-:|:-:|
 |ABC001 |&#x2611;|&#x2611;|-|-|
 |ABC002 |&#x2611;|&#x2611;|&#x2611;|-|
-|ABC003 |&#x2611;|&#x2611;|-|-|
+|ABC003 |&#x2611;|&#x2611;|&#x2610;|&#x2610;|
 |ABC004 |&#x2611;|&#x2611;|&#x2610;|&#x2610;|
 |ABC005 |&#x2611;|&#x2611;|&#x2611;|&#x2610;|
 | | | | | |
@@ -36,7 +36,7 @@ Input directory name then make directory and change directory automatically.
 
 |Contest| A | B | C | D |
 |:-----:|:-:|:-:|:-:|:-:|
-|DDPC2016|&#x2611;|&#x2610;|&#x2610;|&#x2610|
+|DDPC2016|&#x2611;|&#x2610;|&#x2610;|&#x2610;|
 
 
 
