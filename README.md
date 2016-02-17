@@ -14,7 +14,7 @@ Input directory name then make directory and change directory automatically.
 
 |Contest| A | B | C | D |
 |:-----:|:-:|:-:|:-:|:-:|
-|ABC001 |&#x2611;|&#x2611;|-|-|
+|ABC001 |&#x2611;|&#x2611;|&#x2610;|&#x2610;|
 |ABC002 |&#x2611;|&#x2611;|&#x2611;|&#x2610;|
 |ABC003 |&#x2611;|&#x2611;|&#x2610;|&#x2610;|
 |ABC004 |&#x2611;|&#x2611;|&#x2610;|&#x2610;|
