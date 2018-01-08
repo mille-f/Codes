@@ -4,16 +4,19 @@ read -p "Please input directory name : " name
 
 case $name in
     ARC* )
-        mkdir "./ARC/$name"
+        mkdir -p "./ARC/$name"
         cd "./ARC/$name";;
     ABC* )
-        mkdir "./ABC/$name"
+        mkdir -p "./ABC/$name"
         cd "./ABC/$name";;
     ATC* )
-        mkdir "./ATC/$name"
+        mkdir -p "./ATC/$name"
         cd "./ATC/$name";;
+    AGC* )
+        mkdir -p "./AGC/$name"
+        cd "./AGC/$name";;
     *)
-        mkdir "./Others/$name"
+        mkdir -p "./Others/$name"
         cd "./Others/$name";;
 esac
 
