@@ -9,7 +9,7 @@ Input directory name then make directory and change directory automatically.
 -->
 [![Build Status](https://travis-ci.org/mille-f/atcoder_codes.svg)](https://travis-ci.org/mille-f/atcoder_codes)
 
-[AtCoder Problems](http://kenkoooo.com/atcoder/?user=s2035421&rivals=&kind=category)
+[AtCoder Problems](http://kenkoooo.com/atcoder/?user=s2035421&rivals=&kind=category){:target="_blank"}
 
 # Solved Problems
 ## AtCoder Beginner Contest
@@ -41,6 +41,7 @@ Input directory name then make directory and change directory automatically.
 |Contest| A | B | C | D |
 |:-----:|:-:|:-:|:-:|:-:|
 |DDPC2016|&#x2611;|&#x2610;|&#x2610;|&#x2610;|
+
 
 
 
