@@ -1,7 +1,7 @@
 #!/bin/sh
 
 read -p "Please input directory name : " name
-read -p "Please input using language [rb, c, cpp] : " lang
+read -p "Please input using language [py, rb, c, cpp] : " lang
 
 case $name in
     ARC* )
@@ -28,4 +28,4 @@ esac
 
 echo "Completed!"
 
-exec /bin/zsh
+#exec /bin/zsh
